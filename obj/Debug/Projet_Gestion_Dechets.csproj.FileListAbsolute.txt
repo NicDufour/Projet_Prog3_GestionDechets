@@ -1,0 +1,7 @@
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\obj\Debug\Projet_Gestion_Dechets.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\obj\Debug\Projet_Gestion_Dechets.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\bin\Debug\Projet_Gestion_Dechets.exe.config
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\bin\Debug\Projet_Gestion_Dechets.exe
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\bin\Debug\Projet_Gestion_Dechets.pdb
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\obj\Debug\Projet_Gestion_Dechets.exe
+C:\Users\Utilisateur\Desktop\Projet_Gestion_Dechets\Projet_Gestion_Dechets\Projet_Gestion_Dechets\obj\Debug\Projet_Gestion_Dechets.pdb
